@@ -46,7 +46,7 @@ Nexus Launcher - твой идеальный компаньон для Minecraft
 - AutoSword (**Distance**)
 - Critical (**No Setting**)
 - AntiKezumi (**Checker/ID-Check/Invisible-Check/Bot-Check/Null-Check/sharp-teleport**)
-- 
+  
 #### Movement 
 - SpeedHack (**Speed**)
 - Spider (**No Setting**)
@@ -68,7 +68,8 @@ Nexus Launcher - твой идеальный компаньон для Minecraft
 - Esp (**Quantity**)
 - Tracers (**Quantity**)
 - CircleBoshka (**Quantity/bool-Rainbow/bool-Gradient**)
-- 
+
+
 #### Other 
 - RControlButton (**Remove Control Button, can be made custom**)
 - Q (**Button**)
@@ -93,13 +94,13 @@ Nexus Launcher - твой идеальный компаньон для Minecraft
 #### Premium Function +
 #### Combat
 **[+]** TargetHUD (**Distance/Head/HP/Nick/Armor/Sword**)
-**[+]** AntiKezumi (**Aimbot Lbsg/Search Bot Servers/Extra Check/Admin Check**)
-**[+]** FeetPuddle (**Radius/Gradient/Text/Rainbow**)
-**[+]** AnimationAttack (**Delay/Type: Anim1.Anim2.Anim3**)
-**[+]** SkyColor (**Color/Rainbow/Gradient**)
-**[+]** Chams
+\n**[+]** AntiKezumi (**Aimbot Lbsg/Search Bot Servers/Extra Check/Admin Check**)
+\n**[+]** FeetPuddle (**Radius/Gradient/Text/Rainbow**)
+\n**[+]** AnimationAttack (**Delay/Type: Anim1.Anim2.Anim3**)
+\n**[+]** SkyColor (**Color/Rainbow/Gradient**)
+\n**[+]** Chams
 #### Movement
-**[+]** ChestESP (**No Setting**)
+\n**[+]** ChestESP (**No Setting**)
 
 ## 📞 Контакты
 - Telegram: @squatedev
