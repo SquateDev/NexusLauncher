@@ -91,16 +91,16 @@ Nexus Launcher - твой идеальный компаньон для Minecraft
 - VK Groups
 - Premium Buy
 
-#### Premium Function +
+## Premium Function +
 #### Combat
-**[+]** TargetHUD (**Distance/Head/HP/Nick/Armor/Sword**)
-\n**[+]** AntiKezumi (**Aimbot Lbsg/Search Bot Servers/Extra Check/Admin Check**)
-\n**[+]** FeetPuddle (**Radius/Gradient/Text/Rainbow**)
-\n**[+]** AnimationAttack (**Delay/Type: Anim1.Anim2.Anim3**)
-\n**[+]** SkyColor (**Color/Rainbow/Gradient**)
-\n**[+]** Chams
+- [+] TargetHUD (**Distance/Head/HP/Nick/Armor/Sword**)
+- [+] AntiKezumi (**Aimbot Lbsg/Search Bot Servers/Extra Check/Admin Check**)
+- [+] FeetPuddle (**Radius/Gradient/Text/Rainbow**)
+- [+] AnimationAttack (**Delay/Type: Anim1.Anim2.Anim3**)
+- [+] SkyColor (**Color/Rainbow/Gradient**)
+- [+] Chams
 #### Movement
-\n**[+]** ChestESP (**No Setting**)
+- [+] ChestESP (**No Setting**)
 
 ## 📞 Контакты
 - Telegram: @squatedev
